@@ -73,4 +73,15 @@ Full-Stack Developer | Java | React | Security-Focused Systems
 ---
 
 ## Architecture
+React Frontend
+↓
+Secure HTTPS API
+↓
+Spring Boot Backend
+↓
+MongoDB
+
+
+
+
 
