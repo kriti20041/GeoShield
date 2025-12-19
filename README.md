@@ -6,7 +6,7 @@
 
 Website URL-  https://geoshield-final.vercel.app/
 drive link for backend - https://drive.google.com/drive/folders/1DWhT11MIfzj2i8OcgDiYVPzNPPvaYSG_?usp=sharing
-(backend run locally on ngrok and free trails are over)
+(backend run locally on ngrok as free trails are over)
 ## Overview
 
 GeoShield is a full-stack web application that evaluates cybersecurity risks based on a user’s geographic location and surrounding environment.  
